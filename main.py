@@ -1,3 +1,5 @@
+import tkinter as tk
+from tkinter import *
 import random 
 
 def number_guessing():
@@ -18,4 +20,4 @@ def number_guessing():
             break
 
 # Call the function to start the number guessing game
-number_guessing()           
+number_guessing()    
