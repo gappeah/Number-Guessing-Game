@@ -1,6 +1,9 @@
- **## Number Guessing Game**
+# Number Guessing Game
 
 **This Python code creates an interactive number guessing game with a sleek GUI using Tkinter and customtkinter.**
+
+![image](https://github.com/gappeah/Number-Guessing-Game/assets/114095068/59a17c52-23c2-487f-b8b8-d23be2349ea9)
+
 
 **Here's a breakdown of how it works:**
 
