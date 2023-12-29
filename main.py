@@ -1,7 +1,7 @@
 import random
 import tkinter as tk
-import ttkbootstrap as ttk
-import customtkinter
+#import ttkbootstrap as ttk
+#import customtkinter
 from tkinter import messagebox
 
 def check_guess():
